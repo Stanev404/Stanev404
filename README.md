@@ -2,7 +2,7 @@
 - 👀 I’m interested in Penetration testing  
 - 🌱 I’m currently learning how to find exploit vectors
 - 💞️ I’m looking to collaborate on Pen test assesments 
-- 📫 How to reach me - 
+- 📫 How to reach me - via email or mobile
 
 <!---
 Stanev404/Stanev404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
